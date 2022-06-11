@@ -1,0 +1,20 @@
+[
+    {
+        "videoId": 1,
+        "title": "dars videosi",
+        "size": 125634,
+        "link": "dars.mp4",
+        "date": "2022-10-06T19:01:78",
+        "mime": "video/mp4",
+        "userId": 1
+    },
+    {
+        "videoId": 2,
+        "title": "nimdirlar",
+        "size": 125634,
+        "link": "dars.mp4",
+        "date": "2022-10-06T19:01:78",
+        "mime": "video/mp4",
+        "userId": 2
+    }
+]
