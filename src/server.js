@@ -40,8 +40,5 @@ app.use((error, req, res, next) => {
 })
 
 app.listen(PORT , () => console.log(`${PORT}`))
-<<<<<<< HEAD
 console.log('server changes')
-=======
 console.log('test');
->>>>>>> cc9a5c5 (add console.log in server.js)
